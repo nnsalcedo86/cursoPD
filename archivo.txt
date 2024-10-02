@@ -1,3 +1,5 @@
 Aprendiendo Programación en La casa de la Innovación.
 Seguimos aprendiendo.
 Hola futuros devs! 
+
+Hoy 2 de octubre aprendemos git
